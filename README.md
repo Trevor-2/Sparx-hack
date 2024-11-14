@@ -8,7 +8,7 @@
 - 支援 `Bookwork check` 檢測，並自動打開相應的截圖。
 
 ## 安裝需求
-- Python 3.x
+- Python
 - Tesseract OCR
 
 ## 使用方式
@@ -33,7 +33,7 @@ This program is used to detect and record screenshots of Bookwork Code, detect a
 - Supports `Bookwork check` detection and automatically opens the corresponding screenshot.
 
 ## Installation requirements
-- Python 3.x
+- Python
 - Tesseract OCR
 
 ## Usage
