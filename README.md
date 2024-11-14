@@ -13,9 +13,13 @@
 
 ## 使用方式
 1. 安裝 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) 並設定路徑。
-2. 安裝 Python 需求庫：
+2. 安裝 Python 需求庫：(use cmd)(windows->cmd->enter)
    ```bash
    pip install pyautogui pytesseract pillow numpy
+3. 執行程式：
+```bash
+   python main.py
+
 
 # Bookwork Code Detection Program
 
@@ -32,6 +36,9 @@ This program is used to detect and record screenshots of Bookwork Code, detect a
 
 ## Usage
 1. Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and set the path.
-2. Install the Python requirement library:
+2. Install the Python requirement library:(use cmd)(windows->cmd->enter)
  ```bash
  pip install pyautogui pytesseract pillow numpy
+3. Execute the program:
+```bash
+ python main.py
