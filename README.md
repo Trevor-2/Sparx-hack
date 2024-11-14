@@ -1,4 +1,4 @@
-# Bookwork Code Detection Program
+# Sparx Maths Bookwork Check Hack
 
 此程式用於檢測並記錄 Bookwork Code 的截圖，偵測完成答題顏色、Bookwork Check 等功能。
 
