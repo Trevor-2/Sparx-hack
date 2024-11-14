@@ -1,5 +1,6 @@
 # Sparx Maths Bookwork Check Hack
 
+## 簡介
 此程式用於檢測並記錄 Bookwork Code 的截圖，偵測完成答題顏色、Bookwork Check 等功能。
 
 ## 點解我開發呢個程式？
@@ -28,8 +29,7 @@
 2. 由於某些原因，Bookwork code 2C 可能會變成計算機 lol
 3. Bookwork check可能需要更多時間來加載
 
-# Bookwork Code Detection Program
-
+## intro
 This program is used to detect and record screenshots of Bookwork Code, detect answer color, Bookwork Check and other functions.
 
 ## Function
