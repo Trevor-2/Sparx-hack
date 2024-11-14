@@ -22,6 +22,7 @@
 
 ## 注意事項
 每次執行程式會自動刪除上次的截圖。
+由於某些原因，Bookwork code 2C 可能會變成計算機 lol
 
 # Bookwork Code Detection Program
 
@@ -47,3 +48,4 @@ This program is used to detect and record screenshots of Bookwork Code, detect a
 
 ## Notes
 Each time the program is executed, the last screenshot will be automatically deleted.
+for some reasons, Bookwork code 2C might turned to Calculator lol
