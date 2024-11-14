@@ -40,7 +40,7 @@ This program is used to detect and record screenshots of Bookwork Code, detect a
 1. Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) and set the path.
 2. Install the Python requirement library:(use cmd)(windows->cmd->enter)
    ```bash
- pip install pyautogui pytesseract pillow numpy
+   pip install pyautogui pytesseract pillow numpy
 3. Install [sparx maths bookwork hack.zip](https://github.com/Trevor-2/Sparx-maths-bookwork-hack/blob/main/sparx%20maths%20bookwork%20hack.zip)
 4. unzip it
 5. run "main.py"
