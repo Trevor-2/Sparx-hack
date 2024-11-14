@@ -17,7 +17,7 @@
    ```bash
    pip install pyautogui pytesseract pillow numpy
 3. 執行程式：
-```bash
+   ```bash
    python main.py
 
 
