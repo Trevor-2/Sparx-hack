@@ -20,6 +20,8 @@
    ```bash
    python main.py
 
+## 注意事項
+每次執行程式會自動刪除上次的截圖。
 
 # Bookwork Code Detection Program
 
@@ -42,3 +44,6 @@ This program is used to detect and record screenshots of Bookwork Code, detect a
 3. Execute the program:
 ```bash
  python main.py
+
+## Notes
+Each time the program is executed, the last screenshot will be automatically deleted.
