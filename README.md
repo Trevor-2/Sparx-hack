@@ -2,7 +2,7 @@
 
 此程式用於檢測並記錄 Bookwork Code 的截圖，偵測完成答題顏色、Bookwork Check 等功能。
 
-##點解我開發呢個程式？
+## 點解我開發呢個程式？
 雖然每題Bookwork check只值5XP，但係正所謂積少成多，鐵杵都能磨成針，但係Bookwork check真係好煩，於是我寫咗呢個程式。
 
 ## 功能
