@@ -1,8 +1,10 @@
 # Sparx Maths Bookwork Hack
 
 ## video tutorial:
-![image alt text](https://i.ytimg.com/an_webp/vLV6XAAB_YQ/mqdefault_6s.webp?du=3000&sqp=CPSw7rkG&rs=AOn4CLBrHs0Qld9NmjfAye1CETJvuZnOjA)
-(https://www.youtube.com/watch?v=vLV6XAAB_YQ "Video tutorial")
+
+[![IMAGE ALT TEXT](https://i.ytimg.com/an_webp/vLV6XAAB_YQ/mqdefault_6s.webp?du=3000&sqp=CPSw7rkG&rs=AOn4CLBrHs0Qld9NmjfAye1CETJvuZnOjA)](https://www.youtube.com/watch?v=vLV6XAAB_YQ "Tutorial")
+
+
 
 ## 簡介
 此程式用於檢測並記錄 Bookwork Code 的截圖，偵測完成答題顏色、Bookwork Check 等功能。
