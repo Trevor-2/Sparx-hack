@@ -35,6 +35,9 @@
 2. 由於某些原因，Bookwork code 2C 可能會變成計算機 lol
 3. Bookwork check可能需要更多時間來加載
 
+## 致謝
+該專案由 OpenAI 的 ChatGPT 編寫。
+
 ## intro
 This program is used to detect and record screenshots of Bookwork Code, detect answer color, Bookwork Check and other functions.
 
@@ -60,3 +63,6 @@ This program is used to detect and record screenshots of Bookwork Code, detect a
 1. Each time the program is executed, the last screenshot will be automatically deleted.
 2. for some reasons, Bookwork code 2C might turned to Calculator lol
 3. Bookwork check may take more time to load
+
+## Acknowledgments
+This project is written by OpenAI's ChatGPT.
