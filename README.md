@@ -26,7 +26,7 @@
 2. 安裝 Python 需求庫：(use cmd)(windows->cmd->enter)
    ```bash
    pip install pyautogui pytesseract pillow numpy
-3. 安裝 [sparx maths bookwork hack.zip](https://github.com/Trevor-2/Sparx-maths-bookwork-hack/blob/main/sparx%20maths%20bookwork%20hack.zip)
+3. 安裝 [sparx maths bookwork hack.zip](https://github.com/Trevor-2/Sparx-hack/blob/main/.sparx%20maths%20bookwork%20hack.zip)
 4. 解壓縮
 5. 運行“main.py”
 
@@ -58,7 +58,7 @@ Although each Bookwork check is only worth 5XP, as the saying goes, a little add
 2. Install the Python requirement library:(use cmd)(windows->cmd->enter)
    ```bash
    pip install pyautogui pytesseract pillow numpy
-3. Install [sparx maths bookwork hack.zip](https://github.com/Trevor-2/Sparx-maths-bookwork-hack/blob/main/sparx%20maths%20bookwork%20hack.zip)
+3. Install [sparx maths bookwork hack.zip](https://github.com/Trevor-2/Sparx-hack/blob/main/.sparx%20maths%20bookwork%20hack.zip)
 4. unzip it
 5. run "main.py"
 
