@@ -12,11 +12,11 @@
 - 支援 `Bookwork check` 檢測，並自動打開相應的截圖。
 
 ## 安裝需求
-- Python
+- Python (記得點選“add PATH to python”)
 - Tesseract OCR
 
 ## 使用方式
-1. 安裝 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe) 並設定路徑。
+1. 安裝 [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe) 。
 2. 安裝 Python 需求庫：(use cmd)(windows->cmd->enter)
    ```bash
    pip install pyautogui pytesseract pillow numpy
@@ -38,11 +38,11 @@ This program is used to detect and record screenshots of Bookwork Code, detect a
 - Supports `Bookwork check` detection and automatically opens the corresponding screenshot.
 
 ## Installation requirements
-- Python
+- Python (Remember click "add PATH to python")
 - Tesseract OCR
 
 ## Usage
-1. Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe) and set the path.
+1. Install [Tesseract OCR](https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe) 
 2. Install the Python requirement library:(use cmd)(windows->cmd->enter)
    ```bash
    pip install pyautogui pytesseract pillow numpy
