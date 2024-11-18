@@ -41,6 +41,9 @@
 ## intro
 This program is used to detect and record screenshots of Bookwork Code, detect answer color, Bookwork Check and other functions.
 
+## Why did I develop this program?
+Although each Bookwork check is only worth 5XP, as the saying goes, a little adds up, and an iron pestle grinds into a needle. But Bookwork check is really annoying, so I wrote this program.
+
 ## Function
 - Detect whether the color of the entire screen has been completed or not.
 - Detect `Bookwork code` and save the screenshot to the specified name.
