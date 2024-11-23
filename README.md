@@ -35,6 +35,7 @@ Although each Bookwork check is only worth 5XP, as the saying goes, a little add
 3. Bookwork check photo may take more time to load, if you cant wait, just go to "screenshot" file and open the photo yourself.
 4. You MUST run this program in background.
 5. after answer qustion, wait for 1-2 second, screenshot take time.
+6. If you are concerned that the program is a virus, please check using www.virustotal.com
 
 ## Acknowledgments
 This project is written by OpenAI's ChatGPT.
@@ -69,6 +70,7 @@ This project is written by OpenAI's ChatGPT.
 3. Bookwork check可能需要更多時間來載入，如果您等不及，只需轉到「螢幕截圖」檔案並自行開啟照片即可。
 4. 您必須在背景執行該程序
 5. 回答問題後，等待1-2秒，截圖需要時間。
+6. 如果您擔心該程式是病毒，請使用 www.virustotal.com 進行檢查
 
 ## 致謝
 該專案由 OpenAI 的 ChatGPT 編寫。
