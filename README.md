@@ -32,7 +32,7 @@ Although each Bookwork check is only worth 5XP, as the saying goes, a little add
 ## Notes
 1. Each time the program is executed, the last screenshot will be automatically deleted.
 2. For some reasons, Bookwork code 2C might turned to Calculator lol.
-3. Bookwork check may take more time to load.
+3. Bookwork check photo may take more time to load, if you cant wait, just go to "screenshot" file and open the photo yourself.
 4. You MUST run this program in background.
 5. after answer qustion, wait for 1-2 second, screenshot take time.
 
@@ -66,7 +66,7 @@ This project is written by OpenAI's ChatGPT.
 ## 注意事項
 1. 每次執行程式會自動刪除上次的截圖。
 2. 由於某些原因，Bookwork code 2C 可能會變成計算機 lol
-3. Bookwork check可能需要更多時間來加載
+3. Bookwork check可能需要更多時間來載入，如果您等不及，只需轉到「螢幕截圖」檔案並自行開啟照片即可。
 4. 您必須在背景執行該程序
 5. 回答問題後，等待1-2秒，截圖需要時間。
 
