@@ -2,7 +2,7 @@
 
 ## video tutorial:
 
-[![Youtube.com](https://i.ytimg.com/an_webp/vLV6XAAB_YQ/mqdefault_6s.webp?du=3000&sqp=CMDj87kG&rs=AOn4CLB0478B7jmZbFutIJZECFYjUsFVUw)](https://www.youtube.com/watch?v=vLV6XAAB_YQ "Tutorial")
+[![Youtube.com](https://tuberanker.com/storage/images/data/can-i-use-someone-elses-video-on-my-youtube-channel.png)](https://www.youtube.com/watch?v=vLV6XAAB_YQ "Tutorial")
 
 ## intro
 This program is used to detect and record screenshots of Bookwork Code, detect answer color, Bookwork Check and other functions.
